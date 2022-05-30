@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Laksshayvohrra
 - 👀 I’m interested in data analytics and data science
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on my email : laksshayvohrra@gmail.com
 
 <!---
